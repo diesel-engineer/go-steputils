@@ -15,7 +15,7 @@ import (
 const (
 	systemRubyPth  = "/usr/bin/ruby"
 	brewRubyPth    = "/usr/local/bin/ruby"
-	brewRubyPthAlt = "/usr/local/opt/ruby/bin/ruby"
+	brewRubyPthAlt = "/usr/local/opt/ruby@2.6/bin/ruby"
 )
 
 // InstallType ...
